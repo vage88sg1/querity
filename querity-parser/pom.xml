@@ -4,7 +4,7 @@
   <parent>
     <artifactId>querity-parent</artifactId>
     <groupId>io.github.queritylib</groupId>
-    <version>4.0.1-SNAPSHOT</version>
+    <version>4.1.2-SNAPSHOT</version>
   </parent>
 
   <artifactId>querity-parser</artifactId>
@@ -14,7 +14,7 @@
 
   <properties>
     <antlr4.version>4.13.2</antlr4.version>
-    <junit-jupiter.version>6.1.0</junit-jupiter.version>
+    <junit-jupiter.version>6.1.1</junit-jupiter.version>
     <assertj.version>3.27.7</assertj.version>
     <mockito.version>5.23.0</mockito.version>
     <slf4j.version>2.0.18</slf4j.version>
